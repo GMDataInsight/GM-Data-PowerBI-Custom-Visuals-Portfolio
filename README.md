@@ -12,11 +12,11 @@ Our goal is to develop practical, flexible, and professional visualization tools
 
 | Visual | Description | Key Features | Screenshots | Download |
 |---|---|---|---|---|
-| **GMDI KPI Card** | KPI monitoring with historical performance trends. | KPI value, trend indicator, sparkline, advanced formatting, Flip Experience. | [View](GMDI-KPI-Card/screenshots/) | [PBIVIZ](GMDI-KPI-Card/releases/) |
-| **GMDI Data Table** | Interactive table for detailed data presentation and exploration. | Sorting, flexible formatting, Flip Experience, Key Insights view. | [View](GMDI-Data-Table/screenshots/) | [PBIVIZ](GMDI-Data-Table/releases/) |
-| **GMDI Mix Analysis** | Analysis of category composition and distribution across periods. | 100% stacked analysis, category highlighting, custom colors, horizontal and vertical layouts. | [View](GMDI-Mix-Analysis/screenshots/) | [PBIVIZ](GMDI-Mix-Analysis/releases/) |
-| **GMDI Dual Measure Analysis** | Comparison of multiple measures within the same category using independent scales. | Multiple measures, independent axes, layered bars, Top N, independent data label formatting. | [View](GMDI-Dual-Measure/screenshots/) | [PBIVIZ](GMDI-Dual-Measure/releases/) |
-| **GMDI Trend Analysis** | Exploration of performance trends across different time periods and granularities. | Multiple trend measures, configurable periods, time-based analysis, Flip Experience, Insights view. | [View](GMDI-Trend-Analysis/screenshots/) | [PBIVIZ](GMDI-Trend-Analysis/releases/) |
+| **GMDI KPI Card** | KPI monitoring with historical performance trends. | KPI value, trend indicator, sparkline, advanced formatting, Flip Experience. | ![GMDI KPI Card](GMDI-KPI-Card/screenshots/gmdi-kpi-card-preview.PNG) | [PBIVIZ](GMDI-KPI-Card/releases/) |
+| **GMDI Data Table** | Interactive table for detailed data presentation and exploration. | Sorting, flexible formatting, Flip Experience, Key Insights view. | ![GMDI KPI Card](GMDI-KPI-Card/screenshots/gmdi-data-table-preview.PNG) | [PBIVIZ](GMDI-Data-Table/releases/) |
+| **GMDI Mix Analysis** | Analysis of category composition and distribution across periods. | 100% stacked analysis, category highlighting, custom colors, horizontal and vertical layouts. | ![GMDI KPI Card](GMDI-KPI-Card/screenshots/GMDI-Mix-Analysis-Preview.PNG) | [PBIVIZ](GMDI-Mix-Analysis/releases/) |
+| **GMDI Dual Measure Analysis** | Comparison of multiple measures within the same category using independent scales. | Multiple measures, independent axes, layered bars, Top N, independent data label formatting. | ![GMDI KPI Card](GMDI-KPI-Card/screenshots/VisualPreview.PNG) | [PBIVIZ](GMDI-Dual-Measure/releases/) |
+| **GMDI Trend Analysis** | Exploration of performance trends across different time periods and granularities. | Multiple trend measures, configurable periods, time-based analysis, Flip Experience, Insights view. | ![GMDI KPI Card](GMDI-KPI-Card/screenshots/VisualPreview.PNG) | [PBIVIZ](GMDI-Trend-Analysis/releases/) |
 
 ---
 

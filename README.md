@@ -1,32 +1,65 @@
-# GM Data Insight – Power BI Custom Visuals
+# GMDI Custom Visuals Portfolio
 
-A collection of custom Power BI visuals developed by **GM Data Insight (GMDI)**.
+**Power BI Custom Visuals developed by GM Data Insight**
 
-Our visuals are designed to extend Power BI's native capabilities and provide flexible, modern solutions for business intelligence, data analysis and reporting.
+Welcome to the official portfolio of GMDI Custom Visuals — a collection of custom Power BI visuals designed to improve data presentation, reporting flexibility, and analytical experience.
 
-## Products
-
-| Visual | Description | Documentation |
-|---|---|---|
-| GMDI Data Table | Custom interactive table visual | [View documentation](GMDI-Data-Table/README.md) |
-| GMDI Mix Analysis | Custom mix analysis visual | [View documentation](GMDI-Mix-Analysis/README.md) |
-| GMDI KPI Card | KPI card custom visual | [View documentation](GMDI-Kpi-Card/README.md) |
-| GMDI Dual Measure | Custom chart using more measures | [View documentation](GMDI-Dual-Measure/README.md) |
-| GMDI Trend Analysis | Custom trend chart using rolling periods | [View documentation](GMDI-Trend-Analysis/README.md) |
-
-
-## Downloads
-
-Visit [GitHub Releases](https://github.com/GMDataInsight/GM-Data-PowerBI-Custom-Visuals/releases) to download available visual packages.
-
-## About
-
-**GM Data Insight** develops business intelligence solutions and custom analytical tools, with a focus on manufacturing and industrial operations.
-
-Website: https://gmdatainsight.com
-
-Email: office@gmdatainsight.com
+Our goal is to develop practical, flexible, and professional visualization tools that help businesses explore their data and better understand operational performance.
 
 ---
 
-© GM Data Insight. All rights reserved.
+## Available Visuals
+
+| Visual | Description | Key Features | Screenshots | Download |
+|---|---|---|---|---|
+| **GMDI KPI Card** | KPI monitoring with historical performance trends. | KPI value, trend indicator, sparkline, advanced formatting, Flip Experience. | [View](GMDI-KPI-Card/screenshots/) | [PBIVIZ](GMDI-KPI-Card/releases/) |
+| **GMDI Data Table** | Interactive table for detailed data presentation and exploration. | Sorting, flexible formatting, Flip Experience, Key Insights view. | [View](GMDI-Data-Table/screenshots/) | [PBIVIZ](GMDI-Data-Table/releases/) |
+| **GMDI Mix Analysis** | Analysis of category composition and distribution across periods. | 100% stacked analysis, category highlighting, custom colors, horizontal and vertical layouts. | [View](GMDI-Mix-Analysis/screenshots/) | [PBIVIZ](GMDI-Mix-Analysis/releases/) |
+| **GMDI Dual Measure Analysis** | Comparison of multiple measures within the same category using independent scales. | Multiple measures, independent axes, layered bars, Top N, independent data label formatting. | [View](GMDI-Dual-Measure/screenshots/) | [PBIVIZ](GMDI-Dual-Measure/releases/) |
+| **GMDI Trend Analysis** | Exploration of performance trends across different time periods and granularities. | Multiple trend measures, configurable periods, time-based analysis, Flip Experience, Insights view. | [View](GMDI-Trend-Analysis/screenshots/) | [PBIVIZ](GMDI-Trend-Analysis/releases/) |
+
+---
+
+## Installation
+
+GMDI Custom Visuals are distributed as `.pbiviz` packages.
+
+To install a visual in Power BI Desktop:
+
+1. Download the required `.pbiviz` package from the corresponding visual folder.
+2. Open Power BI Desktop.
+3. In the Visualizations pane, select **Import a visual from a file**.
+4. Select the downloaded `.pbiviz` file.
+5. The visual will become available in your report.
+
+---
+
+## Version History
+
+Each visual has its own release history and version numbering.
+
+Available versions and downloadable packages are organized in the corresponding visual folders:
+
+- [GMDI KPI Card](GMDI-KPI-Card/releases/)
+- [GMDI Data Table](GMDI-Data-Table/releases/)
+- [GMDI Mix Analysis](GMDI-Mix-Analysis/releases/)
+- [GMDI Dual Measure Analysis](GMDI-Dual-Measure/releases/)
+- [GMDI Trend Analysis](GMDI-Trend-Analysis/releases/)
+
+---
+
+## About GM Data Insight
+
+**GM Data Insight (GMDI)** specializes in manufacturing analytics, business intelligence, and production data solutions.
+
+Our work combines manufacturing experience, data engineering, and business intelligence to transform operational data into meaningful insights.
+
+**Explore more:**
+
+- Website: https://gmdatainsight.com
+- GitHub: https://github.com/GMDataInsight
+- Custom Visuals Development Repository: https://github.com/GMDataInsight/GM-Data-PowerBI-Custom-Visuals
+
+---
+
+*GMDI Custom Visuals — Turning Data into Operational Insights.*

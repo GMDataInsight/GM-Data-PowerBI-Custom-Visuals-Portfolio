@@ -1,13 +1,22 @@
-# GMDI Custom Visuals Portfolio
+<div align="center">
 
-**Power BI Custom Visuals developed by GM Data Insight**
+# GMDI Custom Visuals
 
-Welcome to the official portfolio of GMDI Custom Visuals — a collection of custom Power BI visuals designed to improve data presentation, reporting flexibility, and analytical experience.
+### Power BI Custom Visuals by GM Data Insight
 
-Our goal is to develop practical, flexible, and professional visualization tools that help businesses explore their data and better understand operational performance.
+**Purpose-built visualizations for better data exploration, 
+performance monitoring, and business intelligence.**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Custom%20Visuals-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Manufacturing Analytics](https://img.shields.io/badge/Manufacturing-Analytics-263746?style=for-the-badge)
+![GMDI](https://img.shields.io/badge/Developed%20by-GMDI-E87524?style=for-the-badge)
+
+[Website](https://gmdatainsight.com) •
+[GitHub](https://github.com/GMDataInsight)
+
+</div>
 
 ---
-
 ## Available Visuals
 
 | Visual | Description | Key Features | Screenshots | Download |
